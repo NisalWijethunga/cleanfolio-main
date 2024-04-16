@@ -68,7 +68,7 @@ const Contact = () => {
                 <Col lg="6" className="form-group">
                   <input
                     className="form-control"
-                    Name="Name"
+                    name="Name"
                     placeholder="Name" 
                     type="text"
                     value={userData.Name}
